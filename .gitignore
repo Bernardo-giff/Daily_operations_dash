@@ -1,0 +1,5 @@
+venv
+*.pyc
+.DS_Store
+.env
+wall_dashboard_local.py
